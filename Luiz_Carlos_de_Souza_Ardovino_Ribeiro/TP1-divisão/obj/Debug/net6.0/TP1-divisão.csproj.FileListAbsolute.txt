@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\TP1-divisão.exe
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\TP1-divisão.deps.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\TP1-divisão.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\TP1-divisão.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\ref\TP1-divisão.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\bin\Debug\net6.0\TP1-divisão.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\ref\TP1-divisão.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-divisão\obj\Debug\net6.0\TP1-divisão.genruntimeconfig.cache

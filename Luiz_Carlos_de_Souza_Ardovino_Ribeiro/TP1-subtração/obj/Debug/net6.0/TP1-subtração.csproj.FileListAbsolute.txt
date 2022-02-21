@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\TP1-subtração.exe
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\TP1-subtração.deps.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\TP1-subtração.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\TP1-subtração.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\ref\TP1-subtração.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\bin\Debug\net6.0\TP1-subtração.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\ref\TP1-subtração.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-subtração\obj\Debug\net6.0\TP1-subtração.genruntimeconfig.cache

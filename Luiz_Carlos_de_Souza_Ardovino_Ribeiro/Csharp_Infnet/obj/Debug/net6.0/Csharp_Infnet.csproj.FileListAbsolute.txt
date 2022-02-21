@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\Csharp_Infnet.exe
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\Csharp_Infnet.deps.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\Csharp_Infnet.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\Csharp_Infnet.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\ref\Csharp_Infnet.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\bin\Debug\net6.0\Csharp_Infnet.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\ref\Csharp_Infnet.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\Csharp_Infnet\obj\Debug\net6.0\Csharp_Infnet.genruntimeconfig.cache

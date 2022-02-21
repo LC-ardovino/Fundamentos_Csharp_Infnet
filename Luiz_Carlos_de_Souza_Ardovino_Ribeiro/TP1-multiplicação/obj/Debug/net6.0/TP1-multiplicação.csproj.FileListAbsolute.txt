@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\TP1-multiplicação.exe
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\TP1-multiplicação.deps.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\TP1-multiplicação.runtimeconfig.json
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\TP1-multiplicação.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\ref\TP1-multiplicação.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\bin\Debug\net6.0\TP1-multiplicação.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\ref\TP1-multiplicação.dll
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.pdb
+C:\Users\User\Documents\GitHub\C#-Infnet\Csharp_Infnet\TP1-multiplicação\obj\Debug\net6.0\TP1-multiplicação.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ac593a7-0da7-4c09-bed9-8fe3d61675cb": {
+      "ProjectGuid": "5ac593a7-0da7-4c09-bed9-8fe3d61675cb",
+      "DisplayName": "Csharp_Infnet",
+      "ColorIndex": 0
+    },
+    "4eeae2ae-7979-45a7-ad58-d99ecb1c52fd": {
+      "ProjectGuid": "4eeae2ae-7979-45a7-ad58-d99ecb1c52fd",
+      "DisplayName": "TP1-adição",
+      "ColorIndex": 1
+    },
+    "c36b072a-853d-4092-887a-872eb36060af": {
+      "ProjectGuid": "c36b072a-853d-4092-887a-872eb36060af",
+      "DisplayName": "TP1-subtração",
+      "ColorIndex": 2
+    },
+    "65288bf9-b2c3-42ef-8c3e-d7c9742c7efc": {
+      "ProjectGuid": "65288bf9-b2c3-42ef-8c3e-d7c9742c7efc",
+      "DisplayName": "TP1-multiplicação",
+      "ColorIndex": 3
+    },
+    "1e0a5530-beba-467f-b93b-3e8546e4eab2": {
+      "ProjectGuid": "1e0a5530-beba-467f-b93b-3e8546e4eab2",
+      "DisplayName": "TP1-divisão",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

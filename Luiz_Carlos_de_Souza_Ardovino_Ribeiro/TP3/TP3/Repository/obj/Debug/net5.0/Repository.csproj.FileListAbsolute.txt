@@ -1,0 +1,15 @@
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\Repository.dll
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\Business.dll
+C:\Luiz\LC\TP3\TP3\Repository\bin\Debug\net5.0\Business.pdb
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.dll
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Luiz\LC\TP3\TP3\Repository\obj\Debug\net5.0\Repository.pdb

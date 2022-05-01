@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\TP2.exe
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\TP2.deps.json
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\TP2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\TP2.dll
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\ref\TP2.dll
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\bin\Debug\net6.0\TP2.pdb
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.dll
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\ref\TP2.dll
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.pdb
+C:\Users\User\Documents\GitHub\Fundamentos_Csharp_Infnet\Luiz_Carlos_de_Souza_Ardovino_Ribeiro\TP2\TP2\TP2\obj\Debug\net6.0\TP2.genruntimeconfig.cache
